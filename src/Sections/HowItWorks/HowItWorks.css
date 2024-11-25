@@ -1,0 +1,64 @@
+.how-it-works {
+    padding: 15px;
+}
+.chip-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 30px 0;
+    opacity: 0;
+    transform: scale(2);
+}
+.chip-img img {
+    width: 180px;
+    height: 180px;
+}
+.how-it-works-title {
+    text-align: center;
+}
+.how-it-works-title h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.how-it-works-title p {
+    color: var(--color-gray-third);
+}
+.how-it-works-frame {
+    margin-top: 20px;
+    position: relative;
+}
+.how-it-works-frame img {
+    width: 100%;
+    height: 100%;
+}
+.video-frame {
+    position: absolute;
+    top: 1.7vw;
+    left: 1.5vw;
+    z-index: -1;
+}
+.video-frame video {
+    width: 98%;
+    height: 100%;
+    border-radius: 65px;
+}
+.name-frame {
+    font-size: 25px;
+    text-align: center;
+    margin: 20px 0;
+    color: var(--color-gray-third);
+}
+@media (min-width: 992px) {
+    .how-it-works-text {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .how-it-works-description {
+        flex-basis: 49%;
+    }
+    .how-it-works-text .details {
+        margin: 0;
+    }
+}

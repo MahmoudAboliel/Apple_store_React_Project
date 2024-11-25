@@ -1,0 +1,12 @@
+.g-text {
+    color: var(--color-gray-third);
+    font-size: 18px;
+    margin-bottom: 20px;
+    transform: translateY(20px);
+    opacity: 0;
+}
+.g-text span {
+    color: #fff;
+    font-size: 19px;
+    font-weight:600;
+}

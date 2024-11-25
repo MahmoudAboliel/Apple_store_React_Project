@@ -1,0 +1,9 @@
+.high-lights-video {
+    padding: 10px;
+}
+.control-videos {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+
+}

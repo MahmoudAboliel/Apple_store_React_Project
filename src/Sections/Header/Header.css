@@ -1,0 +1,23 @@
+header {
+    min-height: 100px;
+    padding: 20px;
+}
+.logo-icon,
+.search-icon,
+.bag-icon {
+    width: 25px;
+}
+.logo-icon {
+    margin-right: 30px;
+}
+.search-field
+ {
+    background: #212529;
+    color: #6c757d;
+    border: none;
+}
+.search-field:focus {
+    background: #495057;
+    color: #fff;
+    box-shadow: none;
+}

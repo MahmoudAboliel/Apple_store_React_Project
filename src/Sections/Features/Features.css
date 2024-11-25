@@ -1,0 +1,28 @@
+.features {
+    background-color: var(--color-zinc);
+}
+.features-content {
+    margin-top: 20px;
+    padding: 15px;
+}
+.features-title h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+@media (max-width: 759px) {
+    .features-title h2 {
+        font-size: 40px;
+    }
+}
+.features-text {
+    display: flex;
+    gap: 40px;
+}
+@media (max-width: 991px) {
+    .features-text {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}

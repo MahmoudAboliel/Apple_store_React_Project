@@ -1,0 +1,7 @@
+export { default as Header } from './Header/Header'
+export { default as Hero } from './Hero/Hero'
+export { default as HighLights } from './HighLights/HighLights'
+export { default as Model } from './Model/Model'
+export { default as Features } from './Features/Features'
+export { default as HowItWorks } from './HowItWorks/HowItWorks'
+export { default as Footer } from './Footer/Footer'

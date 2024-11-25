@@ -1,0 +1,20 @@
+footer {
+    padding: 0 15px;
+    color: var(--color-gray-third);
+}
+.footer-comunications span {
+    color: var(--color-blue);
+    text-decoration: underline;
+}
+.footer-other {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+.footer-other .footer-links {
+    display: flex;
+}
+.footer-link .footer-sperate {
+    margin: 0 5px;
+}

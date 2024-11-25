@@ -1,0 +1,12 @@
+.details {
+    font-size: 18px;
+    margin: 100px 0;
+    color: var(--color-gray-third);
+    transform: translateY(20px);
+    opacity: 0;
+}
+.details .big-text {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
