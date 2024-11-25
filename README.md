@@ -1,5 +1,28 @@
 # Apple_store_React_Project
 
+## Versions
+nodejs v18.19.1
+
+npm 9.2.0
+
+npx 9.2.0
+
+## Packages
+react-icons --save
+
+react-router-dom
+
+react-bootstrap
+
+bootstrap
+
+npm install gsap @gsap/react
+
+## Run build
+npm install -g serve
+
+serve -s build
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
