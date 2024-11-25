@@ -16,7 +16,7 @@ react-bootstrap
 
 bootstrap
 
-npm install gsap @gsap/react
+gsap @gsap/react
 
 ## Run build
 npm install -g serve
