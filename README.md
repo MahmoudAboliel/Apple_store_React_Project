@@ -7,16 +7,7 @@ npm 9.2.0
 
 npx 9.2.0
 
-## Packages
-react-icons --save
-
-react-router-dom
-
-react-bootstrap
-
-bootstrap
-
-gsap @gsap/react
+## Developed a React-based iPhone store application featuring multiple sections, including a video display module that manages playback and seamless transitions using React hooks. The project also integrated GSAP Library for smooth and engaging animations. The primary objective was to enhance proficiency in React development, focusing on component architecture, hooks utilization, and dynamic user interactions.
 
 ## Run build
 npm install -g serve
